@@ -60,7 +60,7 @@
 
 <div align="center">
 
-### [⬇️ تحميل APK](https://github.com/3sluz/taraddud/releases/latest/download/Taraddud-v1.0.0-beta.apk)
+### [⬇️ تحميل APK](https://github.com/3sluz/taraddud/releases/download/v1.0.0-beta/Taraddud-v1.0.0+1-beta.apk)
 
 </div>
 
