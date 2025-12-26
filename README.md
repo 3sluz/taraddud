@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📡 Taraddud
+# Taraddud for Huawei Routers CPE
 
 <img src="assets/app_icon.png" alt="Taraddud" width="120"/>
 
