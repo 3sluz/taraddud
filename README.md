@@ -47,7 +47,7 @@
 
 | لوحة التحكم | الأجهزة المتصلة | إدارة النطاق |
 |:---:|:---:|:---:|
-| ![Dashboard](screenshots/dashboard.png) | ![Devices](screenshots/devices.png) | ![Band](screenshots/band_lock.png) |
+| ![Dashboard](assets/dashboard.png) | ![Devices](assets/devices.png) | ![Band](assets/band_lock.png) |
 
 </div>
 
