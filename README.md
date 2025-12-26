@@ -6,7 +6,7 @@
 
 **تطبيق التحكم في راوتر Huawei**
 
-[![Download](https://img.shields.io/badge/تحميل-APK-success?style=for-the-badge&logo=android)](https://github.com/yourusername/taraddud-beta/releases/latest/download/Taraddud-v1.0.0-beta.apk)
+[![Download](https://img.shields.io/badge/تحميل-APK-success?style=for-the-badge&logo=android)]([https://github.com/yourusername/taraddud-beta/releases/latest/download/Taraddud-v1.0.0-beta.apk](https://github.com/3sluz/taraddud/releases/download/v1.0.0-beta/Taraddud-v1.0.0+1-beta.apk)
 
 </div>
 
