@@ -1,0 +1,107 @@
+<div align="center">
+
+# Taraddud for Huawei Routers CPE
+
+<img src="assets/app_icon.png" alt="Taraddud" width="120"/>
+
+**تطبيق التحكم في راوتر Huawei**
+
+[![Download for Android](https://img.shields.io/badge/تحميل-Android-success?style=for-the-badge&logo=android)](https://github.com/3sluz/taraddud/releases/download/v1.0.0-beta/Taraddud-v1.0.0+1-beta.apk)
+[![Download for Windows](https://img.shields.io/badge/تحميل-Windows-0078D4?style=for-the-badge&logo=windows)](https://apps.microsoft.com/detail/9N7Q905B4RGC)
+
+</div>
+
+---
+
+## 📖 عن التطبيق
+
+تطبيق بسيط للتحكم في راوترات Huawei CPE (4G/5G) من هاتفك الأندرويد أو جهاز الكمبيوتر بنظام Windows.
+
+---
+
+## ✨ المميزات
+
+### 📊 معلومات الشبكة
+- عرض قوة الإشارة (RSRP, RSRQ, SINR)
+- معرفة نوع الشبكة والنطاق الحالي
+- مراقبة سرعة الإنترنت
+- عرض البيانات المستهلكة
+
+### 👥 الأجهزة المتصلة
+- عرض قائمة الأجهزة المتصلة بالراوتر
+- معرفة اسم الجهاز وعنوان IP
+
+### 📡 إدارة النطاق
+- قفل الراوتر على نطاق ترددي محدد
+- فتح جميع النطاقات
+- معرفة النطاقات المدعومة
+
+### ⚙️ إعدادات
+- دعم اللغة العربية والإنجليزية
+- الوضع الليلي والفاتح
+
+---
+
+## 📱 لقطات الشاشة
+
+<div align="center">
+
+| لوحة التحكم | الأجهزة المتصلة | إدارة النطاق |
+|:---:|:---:|:---:|
+| ![Dashboard](assets/dashboard.png) | ![Devices](assets/devices.png) | ![Band](assets/band_lock.png) |
+
+</div>
+
+---
+
+## 📥 التحميل (Download)
+
+### 💻 Windows (Recommended)
+يمكنك تحميل التطبيق مباشرة من متجر مايكروسوفت:
+[<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>](https://apps.microsoft.com/detail/9N7Q905B4RGC)
+
+### 📱 Android
+**النسخة**: 1.0.0 Beta | **الحجم**: ~55 MB  
+[⬇️ تحميل APK](https://github.com/3sluz/taraddud/releases/download/v1.0.0-beta/Taraddud-v1.0.0+1-beta.apk)
+
+---
+
+## 🚀 التثبيت
+
+### نظام Windows:
+1. اذهب إلى رابط المتجر أعلاه.
+2. اضغط على **Get** أو **Install**.
+3. سيتم تثبيت التطبيق وتحديثه تلقائياً.
+
+### نظام Android:
+1. حمّل ملف APK.
+2. فعّل "التثبيت من مصادر غير معروفة" في إعدادات الأمان.
+3. افتح الملف واضغط "تثبيت".
+
+---
+
+## ❓ أسئلة شائعة
+
+**هل التطبيق مجاني؟** نعم، مجاني بالكامل لكافة المنصات.
+
+**هل يعمل مع جميع راوترات Huawei؟** يعمل مع معظم راوترات Huawei CPE (4G/5G).
+
+**هل أحتاج إلى كابل لتوصيل الكمبيوتر؟** لا، فقط يجب أن يكون جهاز الكمبيوتر متصلاً بنفس شبكة الـ WiFi الخاصة بالراوتر.
+
+---
+
+## 👨‍💻 المطور
+
+تم التطوير بواسطة **3sluz**
+
+💬 Telegram: [@M3sluz](https://t.me/M3sluz)
+
+---
+
+<div align="center">
+
+**صُنع بـ ❤️ في ليبيا 🇱🇾**
+
+إذا أعجبك التطبيق، أعطه ⭐ على GitHub!
+
+</div>
